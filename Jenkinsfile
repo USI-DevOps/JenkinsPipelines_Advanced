@@ -52,7 +52,7 @@ pipeline {
 
   }
   environment {
-    SELENIUM = 'C:\DevOps\Tools\Drivers'
+    SELENIUM = 'C:\\DevOps\\Tools\\Drivers'
     VARIABLE = ''
   }
 }
